@@ -4,6 +4,18 @@ An E-commerce app where you can sell your products and buy other products.
 
 [See Demo](https://node-shop-app001.herokuapp.com/)
 
+## Table of Contents
+
+- [Shopping Cart App](#shopping-cart-app)
+  - [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage for Local Development](#usage-for-local-development)
+    - [Serving the app](#serving-the-app)
+    - [Serving the app with nodemon](#serving-the-app-with-nodemon)
+  - [License](#license)
+  - [Author](#author)
+
 ## Prerequisites
 
 This project requires [NodeJS](http://nodejs.org/) (version 10 or later) and [NPM](https://npmjs.org/).
@@ -19,10 +31,6 @@ $ node -v
 v14.17.3
 ```
 
-## Get Started
-
-These instructions will get you a copy of the project up and running on your local machine for development.
-
 ## Installation
 
 **BEFORE YOU INSTALL:** Please read the [Prerequisites](#prerequisites)
@@ -35,7 +43,7 @@ $ cd node-shop-app
 $ npm install
 ```
 
-## Usage
+## Usage for Local Development
 
 Use one of the below commands and visit http://localhost:3000/
 
@@ -50,6 +58,10 @@ $ npm start
 ```sh
 $ npm run start:dev
 ```
+
+## License
+
+This project is covered under the MIT License.
 
 ## Author
 
