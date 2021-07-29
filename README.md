@@ -2,7 +2,7 @@
 
 An E-commerce app where you can sell your products and buy other products.
 
-[See Demo](https://node-shop-app001.herokuapp.com/)
+[See Live Project](https://node-shop-app001.herokuapp.com/)
 
 ## Table of Contents
 
