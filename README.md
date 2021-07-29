@@ -4,8 +4,6 @@ An E-commerce app where you can sell your products and buy other products.
 
 [See Demo](https://node-shop-app001.herokuapp.com/)
 
-<br />
-
 ## Prerequisites
 
 This project requires [NodeJS](http://nodejs.org/) (version 10 or later) and [NPM](https://npmjs.org/).
@@ -20,8 +18,6 @@ $ npm -v
 $ node -v
 v14.17.3
 ```
-
-<br />
 
 ## Get Started
 
