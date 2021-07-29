@@ -2,7 +2,7 @@
 
 An E-commerce app where you can sell your products and buy other products.
 
-[See Live Project](https://node-shop-app001.herokuapp.com/)
+[See Live Project](https://node-shop-app001.herokuapp.com/ "Go Live")
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ An E-commerce app where you can sell your products and buy other products.
 
 ## Prerequisites
 
-This project requires [NodeJS](http://nodejs.org/) (version 10 or later) and [NPM](https://npmjs.org/).
+This project requires [NodeJS](http://nodejs.org/ "NodeJS") (version 10 or later) and [NPM](https://npmjs.org/ "NPM").
 
 To make sure you have them available on your machine,
 try running the following command.
