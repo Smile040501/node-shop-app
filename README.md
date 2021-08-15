@@ -13,8 +13,8 @@ An E-commerce app where you can sell your products and buy other products.
   - [Usage for Local Development](#usage-for-local-development)
     - [Serving the app](#serving-the-app)
     - [Serving the app with nodemon](#serving-the-app-with-nodemon)
-  - [License](#license)
-  - [Author](#author)
+- [License](#license)
+- [Author](#author)
 
 ## Prerequisites
 
@@ -59,10 +59,17 @@ $ npm start
 $ npm run start:dev
 ```
 
-## License
+# License
 
-This project is covered under the MIT License.
+[MIT](LICENSE)
 
-## Author
+# Author
 
-[**Mayank Singla**](https://github.com/Smile040501)
+<a href="https://github.com/Smile040501">
+    <img src="https://avatars.githubusercontent.com/u/62458127?v=4?s=150" width="150px" alt="Mayank Singla" style="border-radius:7px"/>
+</a>
+
+**Mayank Singla**
+
+-   [**GitHub**](https://github.com/Smile040501)
+-   [**LinkedIn**](https://www.linkedin.com/in/mayank-singla-001pt)
